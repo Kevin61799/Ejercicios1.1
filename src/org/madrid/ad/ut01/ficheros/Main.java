@@ -17,7 +17,8 @@ public class Main {
 			String ruta = introducirRuta.next();
 //			c.listarDirectorio(ruta);
 //			c.infoFicheroIO(ruta);
-			c.infoFicheroNIO(ruta);
-			// Esto es una prueba
+//			c.infoFicheroNIO(ruta);
+			
+			InterfazEjercicios.pruebasRutas01(ruta);
 		}
 }
