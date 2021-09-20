@@ -71,7 +71,9 @@ public interface InterfazEjercicios {
 	}
 
 	static void pruebasRutas02(String fichero) {
-
+		Path redundancia = Paths.get(fichero);
+		
+		System.out.println("Ruta sin redundancia: " + redundancia.normalize());
 	}
 
 	/*

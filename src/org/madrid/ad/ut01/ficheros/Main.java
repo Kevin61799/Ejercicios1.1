@@ -19,7 +19,8 @@ public class Main {
 //			c.infoFicheroIO(ruta);
 //			c.infoFicheroNIO(ruta);
 			
-			InterfazEjercicios.pruebasRutas01(ruta);
-			//Prueba casa
+//			InterfazEjercicios.pruebasRutas01(ruta);
+			InterfazEjercicios.pruebasRutas02(ruta);
+			
 		}
 }
