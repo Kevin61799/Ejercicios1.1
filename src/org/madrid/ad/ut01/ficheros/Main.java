@@ -18,6 +18,6 @@ public class Main {
 //			c.listarDirectorio(ruta);
 //			c.infoFicheroIO(ruta);
 			c.infoFicheroNIO(ruta);
-			
+			// Esto es una prueba
 		}
 }
